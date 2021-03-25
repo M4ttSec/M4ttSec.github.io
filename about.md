@@ -9,7 +9,7 @@ A Cyber Security Student from Wales
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm hoping to use this platform as a place where I can publish write ups for cyber related challanges that I complete. I will also try and post regular updates regarding news within the cyber industry. 
 
 ### Contact me
 
