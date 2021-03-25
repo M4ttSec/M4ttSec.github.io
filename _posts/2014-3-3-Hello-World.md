@@ -5,4 +5,4 @@ published: true
 ---
 ## Welcome to my Blog
 
-I will be publishing walkthroughs for CTF challnages I have completed.
+I will be publishing walkthroughs for CTF challanges I have completed.
